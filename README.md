@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+PITON Technology Mobil Uygulama Geliştirme Staj Başvuru Projesi
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
